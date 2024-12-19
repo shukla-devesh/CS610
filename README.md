@@ -1,1 +1,1 @@
-This repository contains my submissions for the assignments of the course CS610:Programming for Performance at IITK.
+This repository contains my submissions for the assignments of the course [CS610:Programming for Performance](https://www.cse.iitk.ac.in/users/swarnendu/courses/autumn2024-cs610/) at IITK offered during the semester 2024-25 I.
